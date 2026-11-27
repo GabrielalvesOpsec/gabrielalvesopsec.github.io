@@ -52,7 +52,7 @@
     mgl: {
       category: 'Desenvolvimento Seguro',
       title: 'M.G.L Connect — Sistema Acadêmico em ASP.NET Core',
-      repo: 'https://github.com/GabrielalvesOpsec/mgl-connect',
+      repo: 'https://github.com/GabrielalvesOpsec/mgl-connect-portfolio',
       summary:
         'Aplicação web acadêmica de gestão logística construída em C# / ASP.NET Core (.NET 10) com controles de acesso por perfil, proteção de dados, APIs, auditoria e esteira de CI com detecção de segredos.',
       methodology: [
